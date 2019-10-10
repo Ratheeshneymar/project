@@ -1,0 +1,81 @@
+.social{
+	margin-left:20px;
+	margin-top:10px;
+	color:white;
+	
+}
+.social:hover{
+	text-decoration:none;
+	color:white;
+	
+}
+.register{
+	border:2px solid blue;
+	background:#343a40;
+	margin-left:10px;
+	border-radius:5px;
+	padding:px;
+	color:blue;
+}
+.login{
+	border:2px solid green;
+	background:#343a40;
+	margin-left:10px;
+	border-radius:5px;
+	color:green;
+}
+.register a{
+	color:white;
+	text-decoration:none;
+}
+.fa-user{
+	margin-right:10px;
+}
+.fa-sign-in{
+	margin-right:10px;
+}
+.login a{
+		color:white;
+	text-decoration:none;
+}
+
+  footer{
+	  background:#343a40;
+  }
+  p{
+	  color:white;
+  }
+  .footeralign{
+	  text-align:center;
+  }
+  .fa-google-plus{
+	  margin-top:50px;
+	font-size:24px;
+	color:red;
+	text-align:center;
+  }
+  .img{
+	 
+  }
+  @media only screen and (max-width:1000px) {
+    .navbar li>a.social{
+      display: none;
+    }
+	.register{
+		border: none;
+		background:#343a40;
+		margin-left:0px;
+		border-radius:5px;
+		color:white;
+	}
+	.login{
+	border:none;
+	background:#343a40;
+	margin-left:0px;
+	border-radius:5px;
+	color:white;
+}
+  }
+  .copyright{
+	  text-align:center;
+  }

@@ -1,0 +1,20 @@
+  .navbar-header img {
+    margin-left: 65px;
+    margin-right: 45px;
+  }
+  .navbar-nav li {
+  padding: 0px 11px;
+  }
+  li.fa{
+    margin-top: 18px;
+    color: #000;
+  }
+  
+  @media only screen and (max-width:1000px) {
+    .navbar-nav li.a.fa{
+      display: none;
+    }
+  }
+ 
+  
+ 
